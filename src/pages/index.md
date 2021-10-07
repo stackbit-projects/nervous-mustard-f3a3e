@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: Swaid is the future of Shopify
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
